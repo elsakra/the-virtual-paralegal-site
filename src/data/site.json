@@ -1,0 +1,89 @@
+{
+  "company": {
+    "name": "The Virtual Paralegal",
+    "tagline": "Stepping into the Future of the Law Practice",
+    "description": "The Virtual Paralegal provides attorneys with educated, detailed and reliable support without the costs that come with a full time employee. We offer virtual paralegal services including drafting, scheduling, case management, and more to help law practices operate efficiently in today's technology-driven world.",
+    "phone": "(954) 546-0045",
+    "email": "GNeal@Virtual-Paralegal.net",
+    "address": null,
+    "hours": null
+  },
+  "branding": {
+    "logo": "https://res.cloudinary.com/dil14r8je/image/upload/v1769036269/auto-site-builder/The%20Virtual%20Paralegal/image_3.png",
+    "primaryColor": "#1e3a5f",
+    "secondaryColor": null
+  },
+  "hero": {
+    "headline": "Stepping into the Future of the Law Practice",
+    "subheadline": "Virtual offices are no longer a thing of the future. With today's technology, many professionals are shedding the traditional idea of an 'office,' and defining business on their own terms.",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    },
+    "secondaryCta": null,
+    "backgroundImage": "https://images.unsplash.com/photo-1589994965851-a8f479c573a9?w=1920&h=1080&fit=crop&q=80"
+  },
+  "sections": {
+    "about": {
+      "headline": "About The Virtual Paralegal - Giovanni Neal, FRP",
+      "content": "Ms. Neal attended Texas State University from 1998 to 2006, where she received both her bachelor's and master's degree. In 2003, Ms. Neal graduated with a Bachelor of Science degree in Criminal Justice, with an emphasis in Pre-Law. She went on to graduate with a Master of Arts in Legal Studies. Ms. Neal has continued to expand her legal knowledge as a legal secretary and paralegal supporting litigation attorneys in the fields of business/commercial litigation, condominium/homeowner association disputes, foreclosure, employment, personal injury, landlord-tenant, and trial practice. Ms. Neal is a Florida Registered paralegal with substantial experience in the field of litigation with a focus on practice and procedure.",
+      "image": "https://plus.unsplash.com/premium_photo-1743020414634-7f9e0550ba5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8bGF3JTIwb2ZmaWNlJTIwaW50ZXJpb3IlMjBwcm9mZXNzaW9uYWx8ZW58MHwwfHx8MTc2ODk0MTU4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "values": [
+        {
+          "title": "Save on Employee Costs",
+          "description": "Meet your needs while you contemplate if another full-time employee is right for your office. You can still bill for our time!"
+        },
+        {
+          "title": "Ethical & Confidential",
+          "description": "We understand that client confidentiality is a must and will advise of any potential conflict that may arise."
+        },
+        {
+          "title": "Experienced & Reliable",
+          "description": "Educated, detailed and reliable support without the costs that come with a full time employee."
+        }
+      ]
+    },
+    "services": {
+      "headline": "Our Services"
+    },
+    "team": {
+      "headline": "Our Team"
+    },
+    "testimonials": {
+      "headline": "What Our Clients Say"
+    },
+    "contact": {
+      "headline": "Contact Us"
+    }
+  },
+  "navigation": {
+    "items": [
+      {
+        "label": "About",
+        "href": "/about"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact"
+      },
+      {
+        "label": "Services",
+        "href": "/services"
+      }
+    ],
+    "ctaButton": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 The Virtual Paralegal. All rights reserved.",
+    "socialLinks": {
+      "facebook": null
+    }
+  },
+  "seo": {
+    "title": "Home",
+    "description": "Paralegal support"
+  }
+}
